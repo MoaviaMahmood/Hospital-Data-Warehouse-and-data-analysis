@@ -63,15 +63,25 @@ Key datasets utilized include:
 
 1. **Conceptual Modeling:**
    - Fact and dimension tables for hospital operations.
+![fact tables](https://github.com/user-attachments/assets/a0be113f-9342-4243-bfeb-8b48af50356e)
+![final sheet](https://github.com/user-attachments/assets/9056eb92-7a4f-4887-a4d4-f6d8156fa45f)
 2. **ETL Process:**
    - Extract data from multiple hospital systems.
    - Transform data to clean, integrate, and enrich information.
    - Load data into a centralized warehouse.
+![knime workflow](https://github.com/user-attachments/assets/c073490e-ad38-454e-88fe-a65582bacb45)
 3. **Data Mining with KNIME:**
    - Workflows for data cleaning, transformation, and pattern recognition.
    - Decision tree models for classification tasks.
+![decision tree](https://github.com/user-attachments/assets/874bb198-fb4e-4d0a-bcb3-fdae70056746)
 4. **Visualization with Power BI:**
    - Interactive dashboards for resource allocation, patient flow, and workload analysis.
+![medication](https://github.com/user-attachments/assets/2b8119c5-e6c0-4932-a6d9-00f553b415d6)
+![nurse and patient per care type](https://github.com/user-attachments/assets/dc36467d-28b9-4bfb-8802-6630a4abe073)
+![patient and bed capacity by department](https://github.com/user-attachments/assets/e04f85e9-5f59-4937-84f3-8a46d430bb40)
+![patient and nurse by department](https://github.com/user-attachments/assets/c375cd10-9a07-49b9-8b51-de4f06a206e1)
+![patient and nurse by shift](https://github.com/user-attachments/assets/5e03adda-bf8c-41fc-97bd-258931e5f62b)
+![bed capacity required by hospital](https://github.com/user-attachments/assets/359719eb-371f-492b-8fb2-bc6d4f4a43a6)
 
 ---
 
