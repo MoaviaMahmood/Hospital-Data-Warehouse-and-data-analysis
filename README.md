@@ -103,4 +103,4 @@ Key datasets utilized include:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hospital-data-warehouse.git
+   git clone https://github.com/moaviamahmood/hospital-data-warehouse.git
