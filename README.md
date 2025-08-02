@@ -21,7 +21,6 @@ This project aims to improve operational efficiency at Services Hospital Lahore 
 5. [Technical Details](#technical-details)
 6. [Final Outcomes](#final-outcomes)
 7. [Usage](#usage)
-8. [License](#license)
 
 ---
 
